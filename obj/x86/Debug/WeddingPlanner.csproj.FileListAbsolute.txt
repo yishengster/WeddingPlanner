@@ -1,0 +1,4 @@
+c:\users\yzhang.innovdevweb02\documents\visual studio 2010\Projects\WeddingPlanner\WeddingPlanner\bin\Debug\WeddingPlanner.exe
+c:\users\yzhang.innovdevweb02\documents\visual studio 2010\Projects\WeddingPlanner\WeddingPlanner\bin\Debug\WeddingPlanner.pdb
+c:\users\yzhang.innovdevweb02\documents\visual studio 2010\Projects\WeddingPlanner\WeddingPlanner\obj\x86\Debug\WeddingPlanner.exe
+c:\users\yzhang.innovdevweb02\documents\visual studio 2010\Projects\WeddingPlanner\WeddingPlanner\obj\x86\Debug\WeddingPlanner.pdb
